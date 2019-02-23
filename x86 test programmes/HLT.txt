@@ -1,0 +1,2 @@
+ START: HLT 
+ 	ADD AX 1

@@ -1,0 +1,2 @@
+START: ADD AX 1
+	OUT 0 AX
